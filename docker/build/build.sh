@@ -3,7 +3,7 @@ cd /app && \
 git clone https://github.com/yaoapp/kun.git /app/kun && \
 git clone https://github.com/yaoapp/xun.git /app/xun && \
 git clone https://github.com/yaoapp/gou.git /app/gou && \
-git clone https://github.com/yaoapp/v8go.git /app/v8go && \
+git clone https://github.com/youkoala/v8go.git /app/v8go && \
 git lfs logs last
 git clone https://github.com/yaoapp/xgen.git /app/xgen-v1.0 && \
 git clone https://github.com/yaoapp/yao-init.git /app/yao-init && \
